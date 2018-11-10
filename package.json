@@ -1,5 +1,5 @@
 {
-  "name": "graphql-iso-date",
+  "name": "@budbuds.us/graphql-iso-date",
   "version": "3.6.1",
   "description": "A set of RFC 3339 compliant date/time GraphQL scalar types.",
   "main": "dist/index.js",
